@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+title: "Toward a Theory of Semantic Fixed Points: Evidence from Iterative Language Model Self-Refinement"
+
+message: >
+If you use this repository in your research, please cite the accompanying
+manuscript using the metadata provided below.
+
+type: software
+
+authors:
+
+* family-names: "Nath"
+  given-names: "Som Subhro"
+  orcid: "https://orcid.org/0009-0007-6842-0019"
+
+repository-code: "https://github.com/SomSubhroN/Semantic-Fixed-Point-framework"
+
+abstract: >
+This repository contains the complete implementation accompanying the paper
+"Toward a Theory of Semantic Fixed Points: Evidence from Iterative Language
+Model Self-Refinement." It includes the source code, prompt corpus,
+experimental datasets, semantic similarity analysis, exponential convergence
+modelling, statistical evaluation, and figure-generation scripts used
+throughout the study.
+
+keywords:
+
+* Large Language Models
+* Semantic Fixed Points
+* Iterative Self-Refinement
+* Dynamical Systems
+* Semantic Convergence
+* Artificial Intelligence
+* Natural Language Processing
+* Transformer Models
+
+license: MIT
+
+version: 1.0.0
+
+date-released: 2026-06-30
+
+preferred-citation:
+type: article
+authors:
+- family-names: "Nath"
+given-names: "Som Subhro"
+orcid: "https://orcid.org/0009-0007-6842-0019"
+
+title: "Toward a Theory of Semantic Fixed Points: Evidence from Iterative Language Model Self-Refinement"
+
+journal: "Under Review"
+
+year: 2026
+
+notes: >
+Preprint accompanying the public implementation.
